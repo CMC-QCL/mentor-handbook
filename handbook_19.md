@@ -64,7 +64,7 @@ Office: Kravis Lower Court – South (LC25)\
 Phone : (909) 607-8526\
 Email : jeho.park@cmc.edu\
 Website: https://www.cmc.edu/qcl\
-Facebook: http://www.facebook.com/theqcl\
+Facebook: http://www.facebook.com/theqcl
 
 
 ---
@@ -80,13 +80,13 @@ Facebook: http://www.facebook.com/theqcl\
 
 ## To get paid:
 
-If this is your first on-campus job, you will need to complete employment paperwork
+If this is your first on-campus job, you will need to complete employment paperwork\
 > For International students, please check with International Place first, if this is your first time working
 
-- Mentors are paid for their scheduled shifts or one-on-one hours coverage.
-	- Mentors are paid at the rate of 13 - 15 dollars per hour based on experience.
-	- Mentors are allowed to work less than 20 hours/week.
-	- Schedule is to be determined by mentor/tutor and student.
+Mentors are paid for their scheduled shifts or one-on-one hours coverage.\
+- Mentors are paid at the rate of 13 - 15 dollars per hour based on experience.
+- Mentors are allowed to work less than 20 hours/week.
+- Schedule is to be determined by mentor/tutor and student.
 
 ## QCL Mentor Job Description
 - **Brief Description of Duties**
@@ -178,15 +178,15 @@ QCL Assistant Director
 
 On-Site Graduate Fellows:
 
->Bahvan Mistrey, PhD\
+Bahvan Mistrey, PhD\
 Assistant Director, Murty Sunak Quantitative and Computing Lab\
-bhaven.mistry@cmc.edu\
+bhaven.mistry@cmc.edu
 
->Cynthia Cheng, MBA, MSc\
+Cynthia Cheng, MBA, MSc\
 PhD Candidate in Information System and Technology, Claremont Graduate     University\
-cynthia.cheng@cmc.edu\
+cynthia.cheng@cmc.edu
 
 
-> Zeyad Elkelani, MA, MSc\
+Zeyad Elkelani, MA, MSc\
 PhD Candidate in Computational Analytics and World Politics, Claremont Graduate University\
-zeyad.elkelani@cmc.edu\
+zeyad.elkelani@cmc.edu
