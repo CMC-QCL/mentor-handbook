@@ -128,6 +128,9 @@ Performance Evaluation
 
 ---
 # Effective teaching strategies (tips and tricks)
+```
+This is from "REED College: ACADEMIC SUPPORT TUTORING HANDBOOK: GUIDELINES & SUGGESTIONS"
+```
 Some of these strategies might not work for every student, but it is a good place to start. Review the list below before starting to tutor and  after to see if you can keep adding to the list below based on your customized experience.
 
 - Break tutee’s difficulties into manageable chunks.
