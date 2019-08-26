@@ -52,15 +52,15 @@ We encourage you to read this document carefully as it sets the standard for you
 Again, welcome to QCL. We look forward to supporting you as you partake in CMC’s quantitative and computational culture.
 
 Jeho Park, Ph.D.<br/>
-Director, The Murty Sunak Quantitative and Computing Lab
-Visiting Assistant Professor, Mathematical Sciences
-XSEDE Campus Champion
-Claremont McKenna College
-Office: Kravis Lower Court – South (LC25)
-Phone : (909) 607-8526
-Email : jeho.park@cmc.edu
-Website: https://www.cmc.edu/qcl
-Facebook: http://www.facebook.com/theqcl
+Director, The Murty Sunak Quantitative and Computing Lab\
+Visiting Assistant Professor, Mathematical Sciences\
+XSEDE Campus Champion\
+Claremont McKenna College\
+Office: Kravis Lower Court – South (LC25)\
+Phone : (909) 607-8526\
+Email : jeho.park@cmc.edu\
+Website: https://www.cmc.edu/qcl\
+Facebook: http://www.facebook.com/theqcl\
 
 
 ---
@@ -185,4 +185,4 @@ cynthia.cheng@cmc.edu
 
 > Zeyad Elkelani, MA, MSc
 PhD Candidate in Computational Analytics and World Politics, Claremont Graduate University
-zeyad.elkelani@cmc.edu      
+zeyad.elkelani@cmc.edu
