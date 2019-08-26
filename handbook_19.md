@@ -6,12 +6,13 @@ QCL Mentor Handbook
 Last update: August 26, 2019
 
 This document is a prelimenary report prepared for QCL Mentor Handbook.
-
+```
 - This document is work-in-progress. There are a couple of examples we may want to refer to
   - https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf (I like this one. Short and concise)
   - https://www.austincollege.edu/wp-content/uploads/2013/02/Peer-Tutor-Handbook.pdf (This handbook is rather formal and lengthy but has good information)
 (Please add links below if you found more relevant examples)
   - … more links ...
+```
 
 ---
 Table of contents
@@ -39,19 +40,22 @@ Table of contents
 
 ---
 # Welcome Letter
-Welcome Letter
-Subject: Welcome QCL Mentor
-Murty and Sunak Quantitative and Computing Lab
+Welcome Letter\
+Subject: Welcome QCL Mentor\
+Murty and Sunak Quantitative and Computing Lab\
 Claremont Mckenna College
 
 Hello,
 
-Welcome to the Murty and Suak Quantitative Land Computing Lab (QCL). Your contribution to QCL is crucial to spread quantitative and computational skills as integral part of CMC’s premier culture.\
-As a QCL mentor for a given academic year, you will be asked to provide one-on-one mentorship for your peers in variety of quantitative and computational topics.\
-We encourage you to read this document carefully as it sets the standard for your role, standards and expectations.\
-Again, welcome to QCL. We look forward to supporting you as you partake in CMC’s quantitative and computational culture.\
+Welcome to the Murty and Suak Quantitative Land Computing Lab (QCL). Your contribution to QCL is crucial to spread quantitative and computational skills as integral part of CMC’s premier culture.<br/>
 
-Jeho Park, Ph.D.<br/>
+As a QCL mentor for a given academic year, you will be asked to provide one-on-one mentorship for your peers in variety of quantitative and computational topics.<br/>
+
+We encourage you to read this document carefully as it sets the standard for your role, standards and expectations.<br/>
+
+Again, welcome to QCL. We look forward to supporting you as you partake in CMC’s quantitative and computational culture.<br/>
+
+Jeho Park, Ph.D.
 Director, The Murty Sunak Quantitative and Computing Lab\
 Visiting Assistant Professor, Mathematical Sciences\
 XSEDE Campus Champion\
