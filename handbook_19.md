@@ -1,6 +1,6 @@
 
 
-<center> QCL Mentor Handbook </center>
+QCL Mentor Handbook 
 ===
 
 Last update: August 26, 2019
@@ -55,6 +55,8 @@ Phone : (909) 607-8526
 Email : jeho.park@cmc.edu
 Website: https://www.cmc.edu/qcl
 Facebook: http://www.facebook.com/theqcl
+
+
 
 ---
 # Getting Started
