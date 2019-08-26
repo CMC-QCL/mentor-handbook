@@ -46,10 +46,10 @@ Claremont Mckenna College
 
 Hello,
 
-Welcome to the Murty and Suak Quantitative Land Computing Lab (QCL). Your contribution to QCL is crucial to spread quantitative and computational skills as integral part of CMC’s premier culture.
-As a QCL mentor for a given academic year, you will be asked to provide one-on-one mentorship for your peers in variety of quantitative and computational topics.
-We encourage you to read this document carefully as it sets the standard for your role, standards and expectations.
-Again, welcome to QCL. We look forward to supporting you as you partake in CMC’s quantitative and computational culture.
+Welcome to the Murty and Suak Quantitative Land Computing Lab (QCL). Your contribution to QCL is crucial to spread quantitative and computational skills as integral part of CMC’s premier culture.\
+As a QCL mentor for a given academic year, you will be asked to provide one-on-one mentorship for your peers in variety of quantitative and computational topics.\
+We encourage you to read this document carefully as it sets the standard for your role, standards and expectations.\
+Again, welcome to QCL. We look forward to supporting you as you partake in CMC’s quantitative and computational culture.\
 
 Jeho Park, Ph.D.<br/>
 Director, The Murty Sunak Quantitative and Computing Lab\
@@ -174,15 +174,15 @@ QCL Assistant Director
 
 On-Site Graduate Fellows:
 
->Bahvan Mistrey, PhD
-Assistant Director, Murty Sunak Quantitative and Computing Lab
-bhaven.mistry@cmc.edu
+>Bahvan Mistrey, PhD\
+Assistant Director, Murty Sunak Quantitative and Computing Lab\
+bhaven.mistry@cmc.edu\
 
->Cynthia Cheng, MBA, MSc
-PhD Candidate in Information System and Technology, Claremont Graduate     University
-cynthia.cheng@cmc.edu
+>Cynthia Cheng, MBA, MSc\
+PhD Candidate in Information System and Technology, Claremont Graduate     University\
+cynthia.cheng@cmc.edu\
 
 
-> Zeyad Elkelani, MA, MSc
-PhD Candidate in Computational Analytics and World Politics, Claremont Graduate University
-zeyad.elkelani@cmc.edu
+> Zeyad Elkelani, MA, MSc\
+PhD Candidate in Computational Analytics and World Politics, Claremont Graduate University\
+zeyad.elkelani@cmc.edu\
