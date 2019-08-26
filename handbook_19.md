@@ -51,7 +51,7 @@ As a QCL mentor for a given academic year, you will be asked to provide one-on-o
 We encourage you to read this document carefully as it sets the standard for your role, standards and expectations.
 Again, welcome to QCL. We look forward to supporting you as you partake in CMC’s quantitative and computational culture.
 
-> Jeho Park, Ph.D.
+Jeho Park, Ph.D.<br/>
 Director, The Murty Sunak Quantitative and Computing Lab
 Visiting Assistant Professor, Mathematical Sciences
 XSEDE Campus Champion
@@ -63,7 +63,6 @@ Website: https://www.cmc.edu/qcl
 Facebook: http://www.facebook.com/theqcl
 
 
-
 ---
 # Getting Started
 ## To be a QCL mentor:
@@ -73,18 +72,30 @@ Facebook: http://www.facebook.com/theqcl
 - Provide a completed recommendation form by a faculty member in the department for any course you plan to tutor/mentor.
 - Attend orientation/training session prior to beginning work.
 
+
+
 ## To get paid:
-- If this is your first on-campus job, you will need to complete employment paperwork
-- For International students, please check with International Office first if this is your first time working
+
+If this is your first on-campus job, you will need to complete employment paperwork
+> For International students, please check with International Place first, if this is your first time working
+
 - Mentors are paid for their scheduled shifts or one-on-one hours coverage.
-- Mentors are paid at the rate of $...., and $... for overtime
-- As a mentor you should record your working hours and keep your timesheet up to date as per Claremont Mckenna College Hourly payroll schedule.
+	- Mentors are paid at the rate of 13 - 15 dollars per hour based on experience.
+	- Mentors are allowed to work less than 20 hours/week.
+	- Schedule is to be determined by mentor/tutor and student.
 
 ## QCL Mentor Job Description
-- *Brief Description of Duties*
-QCL tutors are expected to provide individual tutoring and outreach for those who are wanting to enhance their quantitative and computational skills. QCL tutors work with students to provide academic tutoring, facilitate quantitative and computational skills’ development and introduce students to academic support services. Tutors will meet with their peers at QCL premise. Topics covered including but not limited to Economics, Computer Science, Mathematics and Statistics.
-Mentor Job Description
-(Handshake)
+- **Brief Description of Duties**
+	- Attend all QCL mentor meetings and trainings.
+	- Provide course-specific and tools-based academic support to students through walk-in sessions, 1-1 meetings, and small groups on a short-term and/or regular basis.
+	- Help with homework assignments, preparation for examinations, practice activities (ex. problem sets in mathematics, programming exercises, etc.).
+	- Follow-up with the mentees and report progress to the Director.
+	- Facilitate active learning by allowing the student/mentee to determine the content and pace of the tutoring session.
+	- Conduct QCL-affiliated study group session as organized by the instructor and/or QCL staff.
+	- Maintain regular and accurate records of tutoring sessions through online reservation system provided by the QCL.
+	- Maintain strict confidentiality regarding all student information, except as required for reporting purposes to the administrative assistant of the QCL.
+	- Submit payroll timesheets through Kronos following the payroll schedule.
+	- Report any problems to the administrative assistant of the QCL immediately.
 
 ## Head Mentor Job Description
 **(Matt and Jack: please add head mentor’s responsibilities here)**
@@ -168,10 +179,10 @@ Assistant Director, Murty Sunak Quantitative and Computing Lab
 bhaven.mistry@cmc.edu
 
 >Cynthia Cheng, MBA, MSc
-PhD Candidate in Information System and Technology, Claremont Graduate University
+PhD Candidate in Information System and Technology, Claremont Graduate     University
 cynthia.cheng@cmc.edu
 
 
 > Zeyad Elkelani, MA, MSc
 PhD Candidate in Computational Analytics and World Politics, Claremont Graduate University
-zeyad.elkelani@cmc.edu
+zeyad.elkelani@cmc.edu      
