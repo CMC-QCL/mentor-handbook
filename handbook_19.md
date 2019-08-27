@@ -276,8 +276,7 @@ Be human and caring, but recognize that you are not a clinician. Encourage the s
 <br/>
 
 - **Github:**
-[QCL Mentor Handbook](https://github.com/CMC-QCL/mentor-handbook.git)
-
+	- [QCL Mentor Handbook](https://github.com/CMC-QCL/mentor-handbook.git)
 <br/>
 
 - **Talk to QCL Staff**:
