@@ -22,29 +22,32 @@ This document is a prelimenary report prepared for QCL Mentor Handbook.
 ---
 Table of contents
 ===
+
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Welcome Letter](#welcome-letter)
 - [Getting Started](#getting-started)
-	- [To be a QCL mentor:](#to-be-a-qcl-mentor)
-	- [To get paid:](#to-get-paid)
+	- [To be a QCL mentor](#to-be-a-qcl-mentor)
+	- [Getting Paid](#getting-paid)
 	- [QCL Mentor Job Description](#qcl-mentor-job-description)
 	- [Head Mentor Job Description](#head-mentor-job-description)
-- [How students find you:](#how-students-find-you)
+- [How students find you?](#how-students-find-you)
 	- [QCL walk-in hours](#qcl-walk-in-hours)
 	- [One-on-one sessions](#one-on-one-sessions)
-- [Establishing a Professional Relationship](#establishing-a-professional-relationship)
+- [Establishing a Professional Relationship with mentees](#establishing-a-professional-relationship-with-mentees)
 	- [One-on-one mentoring](#one-on-one-mentoring)
 	- [Walk-in mentoring/tutoring](#walk-in-mentoringtutoring)
 - [Effective teaching strategies (tips and tricks)](#effective-teaching-strategies-tips-and-tricks)
 - [Things to keep in mind](#things-to-keep-in-mind)
 - [Potential (and Typical) Problems for Tutors and Tutees:](#potential-and-typical-problems-for-tutors-and-tutees)
+- [Peer Tutor Responsibilities, Roles, & Relationships](#peer-tutor-responsibilities-roles-relationships)
 - [Resources](#resources)
 
 <!-- /TOC -->
 
 ---
-# Welcome Letter #
+# Welcome Letter
 Welcome Letter\
 Subject: Welcome QCL Mentor\
 Murty and Sunak Quantitative and Computing Lab\
@@ -69,8 +72,8 @@ Facebook: http://www.facebook.com/theqcl
 
 
 ---
-# Getting Started #
-## To be a QCL mentor: ##
+# Getting Started
+## To be a QCL mentor
 Below is requirements on how to qualify as a QCL Mentor:
 - Remain in good academic and conduct standing with the College.
 - Maintain an overall GPA of 9.0 or above with a course grade of (10.0) B+ or above for any course you plan to tutor.
@@ -79,7 +82,7 @@ Below is requirements on how to qualify as a QCL Mentor:
 - Attend orientation/training session prior to beginning work.
 
 
-## To get paid: ##
+## Getting Paid
 
 If this is your first on-campus job, you will need to complete employment paperwork
 > For International students, please check with International Place first, if this is your first time working
@@ -89,7 +92,7 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage:
 - Mentors are allowed to work less than 20 hours/week.
 - Schedule is to be determined by mentor/tutor and student.
 
-## QCL Mentor Job Description ##
+## QCL Mentor Job Description
 - **QCL Job Duties:**
 	- Attend all QCL mentor meetings and trainings.
 	- Provide course-specific and tools-based academic support to students through walk-in sessions, 1-1 meetings, and small groups on a short-term and/or regular basis.
@@ -102,7 +105,7 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage:
 	- Submit payroll timesheets through Kronos following the payroll schedule.
 	- Report any problems to the administrative assistant of the QCL immediately.
 
-## Head Mentor Job Description ##
+## Head Mentor Job Description
 **(Matt and Jack: please add head mentor’s responsibilities here)**
 - Publicity Mentor Job Description
 - ake or collect event photos
@@ -110,20 +113,20 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage:
 - Administer Facebook page and postings
 - Keep up the event postings on Instagram and Facebook
 ---
-# How students find you: #
-## QCL walk-in hours ##
+# How students find you?
+## QCL walk-in hours
 - Mentors are scheduled to work regular shifts in the QCL and available to work with groups and individuals as needed.
 - 7 pm to 9 pm on Sundays, Monday, Tuesday, Wednesdays, and Thursdays.
 
-## One-on-one sessions ##
+## One-on-one sessions
 - Mentors choose additional time slots (1 hour per session) throughout the week based on their availability.
 - Students make appointments with mentors for specific subjects through online appointment system at  http://bit.ly/qcl-appointment.(**Needs Update**)
 - Mentors and students meet in the QCL.
 
 ---
-# Establishing a Professional Relationship #
+# Establishing a Professional Relationship with mentees
 
-## One-on-one mentoring ##
+## One-on-one mentoring
 
 - **How to start your first session:**
 	- If possible, have your first session at QCL. It's a great chance to introduce students.
@@ -145,7 +148,7 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage:
 meeting time/place.
 
 
-## Walk-in mentoring/tutoring ##
+## Walk-in mentoring/tutoring
 
 How to start your walk-in mentoring
 
@@ -154,7 +157,7 @@ Tutoring Practices
 Performance Evaluation
 
 ---
-# Effective teaching strategies (tips and tricks) #
+# Effective teaching strategies (tips and tricks)
 
 Some of these strategies might not work for every student, but it is a good place to start. Review the list below before starting to tutor and  after to see if you can keep adding to the list below based on your customized experience.
 
@@ -176,7 +179,7 @@ Try to provide help for tutees in terms of time-management, study skills, summar
 	- [Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
 
 ---
-# Things to keep in mind #
+# Things to keep in mind
 
 - **Learning Styles**:
 	- Understanding your tutee’s learning styles and building your tutoring sessions around those strengths may make your sessions more productive.
@@ -200,7 +203,7 @@ phrased can be very culturally weighted.
 	- [Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
 
 ---
-# Potential (and Typical) Problems for Tutors and Tutees: #
+# Potential (and Typical) Problems for Tutors and Tutees:
 - **A tutee expects you to do the work for them or tell them the answers:**
 Remind the student of the guidelines you established and that your primary goal is for them to be independent. If necessary, remind them of your shared responsibilities to uphold the Honor Principle.<br/>
 - **An individual tutee who fails to show up for an appointment, or who shows up late:**
@@ -231,7 +234,7 @@ Be human and caring, but recognize that you are not a clinician. Encourage the s
 
 
 ---
-# Peer Tutor Responsibilities, Roles, & Relationships #
+# Peer Tutor Responsibilities, Roles, & Relationships
 
 - **Responsibilities of a Peer Tutor:**
 
@@ -270,7 +273,7 @@ Be human and caring, but recognize that you are not a clinician. Encourage the s
 
 ---
 
-# Resources #
+# Resources
 - **Online Study Tools**:
 	- Need to add online resources.
 <br/>
