@@ -183,8 +183,8 @@ Try to provide help for tutees in terms of time-management, study skills, summar
 - **Learning Styles**:
 	- Understanding your tutee’s learning styles and building your tutoring sessions around those strengths may make your sessions more productive.
 	- Some resources for better learning:
-• http://www.vark-learn.com (go to “questionnaire”)
-• http://www.learning-styles-online.com/inventory/questions.asp
+		- http://www.vark-learn.com
+		- http://www.learning-styles-online.com/inventory/questions.asp
 	- Remember that your tutee may learn best in a way that’s different from yours.
 - **Body Language**:
 	- Use these common positive cues: turning your chair towards the tutee, nodding,
@@ -198,10 +198,10 @@ maintaining regular eye contact, smiling.
 phrased can be very culturally weighted.
 	- If you feel like mis-communicated cultural cues are interfering with your tutoring sessions, try addressing the issue directly by approaching the topic with curiosity and openness.
 	<br/>
-	- Section Refrences:
-		- <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
+- Section Refrences:
+	- <cite>[Academic Support Tutoring Handbook, Reed College][2] </cite>
 
-		[1]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
+	[2]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
 ---
 # Potential (and Typical) Problems for Tutors and Tutees: #
 - **A tutee expects you to do the work for them or tell them the answers:**
@@ -230,9 +230,9 @@ Encourage them to see their course instructor and/or David or Ryland. As a tutor
 Be human and caring, but recognize that you are not a clinician. Encourage the student to go to Health and Counseling. If the student does or says anything that gives you reason to be concerned about them, let QCL know right away.
 <br/>
 - Section Refrences:
-	- <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
+	- <cite>[Academic Support Tutoring Handbook, Reed College][3] </cite>
 
-[1]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
+[3]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
 
 ---
 # Peer Tutor Responsibilities, Roles, & Relationships #
