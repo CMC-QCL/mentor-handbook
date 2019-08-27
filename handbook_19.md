@@ -39,7 +39,7 @@ Table of contents
 <!-- /TOC -->
 
 ---
-# Welcome Letter
+# Welcome Letter #
 Welcome Letter\
 Subject: Welcome QCL Mentor\
 Murty and Sunak Quantitative and Computing Lab\
@@ -63,13 +63,13 @@ Claremont McKenna College\
 Office: Kravis Lower Court – South (LC25)\
 Phone : (909) 607-8526\
 Email : jeho.park@cmc.edu\
-Website: https://www.cmc.edu/qcl\
+Website: https://www.cmc.edu/qcl
 Facebook: http://www.facebook.com/theqcl
 
 
 ---
-# Getting Started
-## To be a QCL mentor:
+# Getting Started #
+## To be a QCL mentor: ##
 - Remain in good academic and conduct standing with the College.
 - Maintain an overall GPA of 9.0 or above with a course grade of (10.0) B+ or above for any course you plan to tutor.
 - Demonstrate excellent verbal, written, and interpersonal communications skills.
@@ -78,17 +78,17 @@ Facebook: http://www.facebook.com/theqcl
 
 
 
-## To get paid:
+## To get paid: #
 
-If this is your first on-campus job, you will need to complete employment paperwork\
+If this is your first on-campus job, you will need to complete employment paperwork
 > For International students, please check with International Place first, if this is your first time working
 
-Mentors are paid for their scheduled shifts or one-on-one hours coverage.\
+Mentors are paid for their scheduled shifts or one-on-one hours coverage.
 - Mentors are paid at the rate of 13 - 15 dollars per hour based on experience.
 - Mentors are allowed to work less than 20 hours/week.
 - Schedule is to be determined by mentor/tutor and student.
 
-## QCL Mentor Job Description
+## QCL Mentor Job Description ##
 - **Brief Description of Duties**
 	- Attend all QCL mentor meetings and trainings.
 	- Provide course-specific and tools-based academic support to students through walk-in sessions, 1-1 meetings, and small groups on a short-term and/or regular basis.
@@ -101,7 +101,7 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage.\
 	- Submit payroll timesheets through Kronos following the payroll schedule.
 	- Report any problems to the administrative assistant of the QCL immediately.
 
-## Head Mentor Job Description
+## Head Mentor Job Description ##
 **(Matt and Jack: please add head mentor’s responsibilities here)**
 - Publicity Mentor Job Description
 - ake or collect event photos
@@ -110,20 +110,20 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage.\
 - Keep up the event postings on Instagram and Facebook
 
 ---
-# How students find you:
-## QCL walk-in hours
+# How students find you: #
+## QCL walk-in hours ##
 - Mentors are scheduled to work regular shifts in the QCL and available to work with groups and individuals as needed.
 - 7 pm to 9 pm on Sundays, Monday, Tuesday, Wednesdays, and Thursdays.
 
-## One-on-one sessions
+## One-on-one sessions ##
 - Mentors choose additional time slots (1 hour per session) throughout the week based on their availability.
-- Students make appointments with mentors for specific subjects through online appointment system at  http://bit.ly/qcl-appointment.
+- Students make appointments with mentors for specific subjects through online appointment system at  http://bit.ly/qcl-appointment.(**Needs Update**)
 - Mentors and students meet in the QCL.
 
 ---
-# Establishing a Professional Relationship
+# Establishing a Professional Relationship #
 
-## One-on-one mentoring
+## One-on-one mentoring ##
 
 - How to start your first session
 
@@ -133,7 +133,7 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage.\
 
 
 
-## Walk-in mentoring/tutoring
+## Walk-in mentoring/tutoring ##
 
 How to start your walk-in mentoring
 
@@ -142,7 +142,7 @@ Tutoring Practices
 Performance Evaluation
 
 ---
-# Effective teaching strategies (tips and tricks)
+# Effective teaching strategies (tips and tricks) #
 ```
 This is from "REED College: ACADEMIC SUPPORT TUTORING HANDBOOK: GUIDELINES & SUGGESTIONS"
 ```
@@ -162,11 +162,11 @@ Some of these strategies might not work for every student, but it is a good plac
 Try to provide help for tutees in terms of time-management, study skills, summarizing materials, and effective programming techniques. This is expected to fortify students’ learning capabilities in your session and during other sessions as well.
 
 ---
-# Things to keep in mind
+# Things to keep in mind #
 ---
-# Potential (and Typical) Problems for Tutors and Tutees:
+# Potential (and Typical) Problems for Tutors and Tutees: #
 ---
-# Resources
+# Resources #
 - Online Study Tools:
 
 - Our Github Repository for Useful codes: (Suggested)
