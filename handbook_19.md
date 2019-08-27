@@ -120,7 +120,7 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage:
 
 ## One-on-one sessions
 - Mentors choose additional time slots (1 hour per session) throughout the week based on their availability.
-- Students make appointments with mentors for specific subjects through online appointment system at  http://bit.ly/qcl-appointment.(**Needs Update**)
+- Students make appointments with mentors for specific subjects through online appointment system at  http://bit.ly/qcl-appointment. (**Needs Update**)
 - Mentors and students meet in the QCL.
 
 ---
