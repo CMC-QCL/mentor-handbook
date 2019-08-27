@@ -233,29 +233,28 @@ Refrences:
 -  <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
 
 [1]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
+
 ---
 # Resources #
-- Online Study Tools:
+- **Online Study Tools**:
 
-- Our Github Repository for Useful codes: (Suggested)
+- **Our Github Repository for Useful codes**: (Suggested)
 72
 
 
-- Talk to QCL Staff:
+- **Talk to QCL Staff**:
 
-QCL Assistant Director
 
-On-Site Graduate Fellows:
 
+	- QCL Assistant Director:
 Bahvan Mistrey, PhD\
 Assistant Director, Murty Sunak Quantitative and Computing Lab\
-bhaven.mistry@cmc.edu
+bhaven.mistry@cmc.edu <br/>
 
+	- On-Site Graduate Fellows:
 Cynthia Cheng, MBA, MSc\
 PhD Candidate in Information System and Technology, Claremont Graduate     University\
-cynthia.cheng@cmc.edu
-
-
+cynthia.cheng@cmc.edu <br/>
 Zeyad Elkelani, MA, MSc\
 PhD Candidate in Computational Analytics and World Politics, Claremont Graduate University\
 zeyad.elkelani@cmc.edu
