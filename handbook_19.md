@@ -230,13 +230,15 @@ Encourage them to see their course instructor and/or David or Ryland. As a tutor
 Be human and caring, but recognize that you are not a clinician. Encourage the student to go to Health and Counseling. If the student does or says anything that gives you reason to be concerned about them, let QCL know right away.
 <br/>
 - Section Refrences:
-	- <cite>[Academic Support Tutoring Handbook, Reed College][3] </cite>
+<cite>[Academic Support Tutoring Handbook, Reed College][3] </cite>
 
 [3]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
 
 ---
 # Peer Tutor Responsibilities, Roles, & Relationships #
+
 - **Responsibilities of a Peer Tutor:**
+
 	1. Keep appointments
 	2. Help the students to become independent learners/thinkers
 	3. Be positive – even when discussing a student’s mistakes
@@ -247,7 +249,9 @@ Be human and caring, but recognize that you are not a clinician. Encourage the s
 	8. Maintain confidentiality
 	9. Be accepting of a variety of learning styles
 <br/>
+
 - **Student Responsibilities:**
+
 	1. Have Work Completed (as much as possible)
 	2. Review and understand material to best of ability
 	3. Come prepared – have all materials, instruction sheets, syllabus for the course
@@ -265,7 +269,9 @@ Be human and caring, but recognize that you are not a clinician. Encourage the s
 | willing reader  |  editor |
 |  professional |  ghost-writer/problem solver |
 
+
 ---
+
 # Resources #
 - **Online Study Tools**:
 	- Need to add online resources.
