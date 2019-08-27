@@ -3,9 +3,13 @@
 QCL Mentor Handbook
 ===
 
-Last update: August 26, 2019
+**Last update: August 27, 2019**
 
 This document is a prelimenary report prepared for QCL Mentor Handbook.
+
+
+**Many of the sections still needs paraphrasing for copyrights reasons**
+
 ```
 **Primary Sources**
 - This document is work-in-progress. There are a couple of examples we may want to refer to
