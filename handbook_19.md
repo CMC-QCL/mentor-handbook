@@ -173,7 +173,7 @@ Try to provide help for tutees in terms of time-management, study skills, summar
 <br/>
 
 - Section Refrences:
-[Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
+	- [Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
 
 ---
 # Things to keep in mind #
@@ -197,7 +197,7 @@ phrased can be very culturally weighted.
 	- If you feel like mis-communicated cultural cues are interfering with your tutoring sessions, try addressing the issue directly by approaching the topic with curiosity and openness.
 	<br/>
 - Section Refrences:
-[Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
+	- [Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
 
 ---
 # Potential (and Typical) Problems for Tutors and Tutees: #
@@ -227,7 +227,7 @@ Encourage them to see their course instructor and/or David or Ryland. As a tutor
 Be human and caring, but recognize that you are not a clinician. Encourage the student to go to Health and Counseling. If the student does or says anything that gives you reason to be concerned about them, let QCL know right away.
 <br/>
 - Section Refrences:
-[Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
+	- [Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
 
 
 ---
