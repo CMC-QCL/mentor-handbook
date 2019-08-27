@@ -50,17 +50,13 @@ Subject: Welcome QCL Mentor\
 Murty and Sunak Quantitative and Computing Lab\
 Claremont Mckenna College
 
-Hello,
-
+>Hello,
 Welcome to the Murty and Suak Quantitative Land Computing Lab (QCL). Your contribution to QCL is crucial to spread quantitative and computational skills as integral part of CMC’s premier culture.<br/>
-
 As a QCL mentor for a given academic year, you will be asked to prvoide mentorship for your peers in variety of quantitative and computational topics.<br/>
-
 We encourage you to read this document carefully as it sets the standards for your role, duties and expectations.<br/>
-
 Again, welcome to QCL. We look forward to supporting you as you partake in CMC’s quantitative and computational culture.<br/>
 
-Jeho Park, Ph.D.
+Jeho Park, Ph.D.\
 Director, The Murty Sunak Quantitative and Computing Lab\
 Visiting Assistant Professor, Mathematical Sciences\
 XSEDE Campus Champion\
