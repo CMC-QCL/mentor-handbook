@@ -234,9 +234,11 @@ In the tutoring centers, our basic model is first-come, first-served, which, as 
 Encourage them to see their course instructor and/or David or Ryland. As a tutor, you are there to help facilitate learning, but the instructor has the ultimate charge. Think about what questions you could help the student formulate as they prepare to meet with their professor. Struggling in multiple courses may be a sign of personal, health, psychological, or disability-related difficulties that could require a combination of resources and/or time away to solve. Refer tutees to Student Services so we can coordinate efforts to support students in academic crisis.
 - **A tutee that divulges personal/health issues:**
 Be human and caring, but recognize that you are not a clinician. Encourage the student to go to Health and Counseling. If the student does or says anything that gives you reason to be concerned about them, let QCL know right away.
+
 <br/>
+
 - Section Refrences:
-	- [Academic Support Tutoring Handbook, Reed College](#https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
+	- [Academic Support Tutoring Handbook, Reed College](https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf)
 
 
 ---
