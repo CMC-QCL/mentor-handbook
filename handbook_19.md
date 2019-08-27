@@ -124,12 +124,10 @@ Mentors are paid for their scheduled shifts or one-on-one hours coverage:
 # Establishing a Professional Relationship #
 
 ## One-on-one mentoring ##
-```
-This is from "REED College: ACADEMIC SUPPORT TUTORING HANDBOOK: GUIDELINES & SUGGESTIONS"
-```
+
 - **How to start your first session:**
 	- If possible, have your first session at QCL. It's a great chance to introduce students.
-	- Offer your tutee a copy of QCL welcome **pamphlet.**
+	- Offer your tutee a copy of QCL  **Handbook.**
 
 - **Ask questions:**
 	- Start a session with a new student by asking them what they want from tutoring and what questions they have about the process. Prompting students to understand their own learning needs and develop their own study plans helps motivate them towards self-sufficiency, which is the end goal in tutoring. In addition, establishing reasonable expectations upfront can help avoid difficulties later.
@@ -157,9 +155,7 @@ Performance Evaluation
 
 ---
 # Effective teaching strategies (tips and tricks) #
-```
-This is from "REED College: ACADEMIC SUPPORT TUTORING HANDBOOK: GUIDELINES & SUGGESTIONS"
-```
+
 Some of these strategies might not work for every student, but it is a good place to start. Review the list below before starting to tutor and  after to see if you can keep adding to the list below based on your customized experience.
 
 - Break tutee’s difficulties into manageable chunks.
@@ -174,12 +170,16 @@ Some of these strategies might not work for every student, but it is a good plac
 - Still, you are not expected to re-read articles, textbooks or re-do practice problems.
 
 Try to provide help for tutees in terms of time-management, study skills, summarizing materials, and effective programming techniques. This is expected to fortify students’ learning capabilities in your session and during other sessions as well. **Also, refer students to CMC Center for Academic Support -Not sure if this is true**
+<br/>
+
+- Section Refrences:
+	- <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
+
+[1]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
 
 ---
 # Things to keep in mind #
-```
-Please check refrence below
-```
+
 - **Learning Styles**:
 	- Understanding your tutee’s learning styles and building your tutoring sessions around those strengths may make your sessions more productive.
 	- Some resources for better learning:
@@ -196,12 +196,12 @@ maintaining regular eye contact, smiling.
 	- Some cultures discourage students from disagreeing with authorities or challenging teachers and tutors.
 	- Personal space, eye contact, speech volume, and even how questions are
 phrased can be very culturally weighted.
-	- If you feel like mis-communicated cultural cues are interfering with your tutoring sessions, try addressing the issue directly by approaching the topic with curiosity and openness.<br/>
+	- If you feel like mis-communicated cultural cues are interfering with your tutoring sessions, try addressing the issue directly by approaching the topic with curiosity and openness.
+	<br/>
+	- Section Refrences:
+		- <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
 
-Refrences:
-- <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
-
-	[1]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
+		[1]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
 ---
 # Potential (and Typical) Problems for Tutors and Tutees: #
 - **A tutee expects you to do the work for them or tell them the answers:**
@@ -227,33 +227,65 @@ In the tutoring centers, our basic model is first-come, first-served, which, as 
 - **A tutee whose academic difficulties appear to be more extensive than just one course or more than you can address through tutoring:**
 Encourage them to see their course instructor and/or David or Ryland. As a tutor, you are there to help facilitate learning, but the instructor has the ultimate charge. Think about what questions you could help the student formulate as they prepare to meet with their professor. Struggling in multiple courses may be a sign of personal, health, psychological, or disability-related difficulties that could require a combination of resources and/or time away to solve. Refer tutees to Student Services so we can coordinate efforts to support students in academic crisis.
 - **A tutee that divulges personal/health issues:**
-Be human and caring, but recognize that you are not a clinician. Encourage the student to go to Health and Counseling. If the student does or says anything that gives you reason to be concerned about them, let QCL know right away.<br/>
-
-Refrences:
--  <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
+Be human and caring, but recognize that you are not a clinician. Encourage the student to go to Health and Counseling. If the student does or says anything that gives you reason to be concerned about them, let QCL know right away.
+<br/>
+- Section Refrences:
+	- <cite>[Academic Support Tutoring Handbook, Reed College][1] </cite>
 
 [1]:https://www.reed.edu/academic_support/pdfs/tutor_handbook.pdf
 
 ---
+# Peer Tutor Responsibilities, Roles, & Relationships #
+- **Responsibilities of a Peer Tutor:**
+	1. Keep appointments
+	2. Help the students to become independent learners/thinkers
+	3. Be positive – even when discussing a student’s mistakes
+	4. Don’t engage in negative talk about a professor
+	5. Treat all students with respect
+	6. Be knowledgeable about your content area
+	7. Establish mutual expectations with your students
+	8. Maintain confidentiality
+	9. Be accepting of a variety of learning styles
+<br/>
+- **Student Responsibilities:**
+	1. Have Work Completed (as much as possible)
+	2. Review and understand material to best of ability
+	3. Come prepared – have all materials, instruction sheets, syllabus for the course
+	4. Communicate needs to Peer Tutor
+<br/>
+
+- **Role of a Peer Tutor:**
+
+| A Tutor is      | A Tutor is not  |
+| :---:        |    :----:   |
+| active listener      | grammar cop       |
+| curious questioner   | grader        |
+| friendly face | course instructor |
+| non-judgmental peer  | proofreader  |
+| willing reader  |  editor |
+|  professional |  ghost-writer/problem solver |
+
+---
 # Resources #
 - **Online Study Tools**:
+	- Need to add online resources.
+<br/>
 
-- **Our Github Repository for Useful codes**: (Suggested)
-72
+- **Github:**
+[QCL Mentor Handbook](#https://github.com/CMC-QCL/mentor-handbook.git)
 
+<br/>
 
 - **Talk to QCL Staff**:
-
-
 
 	- **QCL Assistant Director**:
 Bahvan Mistrey, PhD\
 Assistant Director, Murty Sunak Quantitative and Computing Lab\
-bhaven.mistry@cmc.edu <br/>
-
-	- **On-Site Graduate Fellows**:\ 
+bhaven.mistry@cmc.edu
+<br/>
+	- **On-Site Graduate Fellows**:
 Cynthia Cheng, MBA, MSc\
-PhD Candidate in Information System and Technology, Claremont Graduate     University\
+PhD Candidate in Information Systems and Technology, Claremont Graduate     University\
 cynthia.cheng@cmc.edu <br/>
 Zeyad Elkelani, MA, MSc\
 PhD Candidate in Computational Analytics and World Politics, Claremont Graduate University\
