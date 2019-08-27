@@ -246,12 +246,12 @@ Refrences:
 
 
 
-	- QCL Assistant Director:
+	- **QCL Assistant Director**:
 Bahvan Mistrey, PhD\
 Assistant Director, Murty Sunak Quantitative and Computing Lab\
 bhaven.mistry@cmc.edu <br/>
 
-	- On-Site Graduate Fellows:
+	- **On-Site Graduate Fellows**:\ 
 Cynthia Cheng, MBA, MSc\
 PhD Candidate in Information System and Technology, Claremont Graduate     University\
 cynthia.cheng@cmc.edu <br/>
