@@ -1,0 +1,18 @@
+--- 
+title: "Mentor Handbook"
+author: "Bhaven Mistry"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Mentor Handbook for working at the QCL"
+---
+
+# Mentor Handbook
+
+Have Fun! 
+
+"Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
