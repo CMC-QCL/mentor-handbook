@@ -1,7 +1,7 @@
 --- 
 title: "Mentor Handbook"
-author: "Bhaven Mistry"
-date: "`r Sys.Date()`"
+author: "This handbook is a quick reference to the most important things you need to know as a QCL Mentor. "
+date: "Last updated `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -11,8 +11,6 @@ link-citations: yes
 description: "Mentor Handbook for working at the QCL"
 ---
 
-# Mentor Handbook
 
-Have Fun! 
 
-"Last compiled on `r format(Sys.time(), '%B %d, %Y, Time: %H:%M')`"
+
