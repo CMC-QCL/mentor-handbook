@@ -4,8 +4,10 @@ our-location
 first-aid
 fire-safety
 earthquake-safety
-qcl-staff-cell-numbers
+qcl-staff-contacts
 qcl-mission-statement
+qcl-history
+quantitative-literacy
 new-mentor-onboarding
 qcl-resources
 one-on-one-appointments
