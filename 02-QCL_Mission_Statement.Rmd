@@ -1,26 +1,38 @@
 # QCL Mission Statement
+The Murty Sunak Quantitative and Computing Lab (QCL) serves as the transdisciplinary campus hub and comprehensive support center for students and faculty seeking assistance with a broad spectrum of quantitative issues, including mathematics, computation, statistics, programming, data analysis, and visualization.
 
 ## Quantitative Literacy vs Quantitative Confidence
+The mentoring operation is ultimately a tutoring service for Math, CS, Stats, and Physics, and, thus, we want students to leave the QCL with a higher level of quantitative knowledge and the ability to apply that knowledge. This is what we all "quantitative literacy" and it's growth is an understandable goal of any quantitative centers.
+
+However, what is also important is what we all "quantitative confidence," the QCL's version of student self-authorship. Understand that there are many students who may excel at their quantitative courses and know how to apply those learned skills, but lack any motivation to do so. If presented a quantitative problem in the real world, these students would automatically delegate the problem to someone they deem "a math person," despite being perfectly capable of the task. We want to break this false dichotomy of "math people and non-math people" by showing students that quantitative skills are important in society, important to their personal goals, and are enjoyable to learn. As a mentor, your goal is to have students leavve the QCL with higher quantitative literacy and confidence.
 
 ## QCL History
+The Murty Sunak Quantitative and Computing Lab was created by Dr. Jeho Park in 2018 as replacement to the existing Mathematical Sciences' tutoring operation. One of the hallmarks of the CMC Mathematical Sciences department is it's devotion to giving faculty agency in their teaching style, and this philosophy trickles down to how we train our mentors. Furthermore, the QCL is part of a triumverate of "student success" institutions which include the Center for Writing and Public Discourse (CWPD) and the Dean of Students (DoS) office, from which we modeled much of our structure. 
+
+Since its inception, the QCL has grown and included Computer Science and Statistics courses from the Economics, Psychology, and Biology departments, along with logic from the Philosophy department. More recently, we have subsumed the Keck Science Physics tutoring operation. However, as we grow and are presented possible new courses to mentor for, we take care to only consider those that have a strong quantitative component with minimal redundancy with other, existing tutoring operations.
 
 ## Who is the QCL for?
+The QCL is first and foremost a CMC organization, so CMC students can come to seek help in anything quantitative. This includes reasons that are not associated with any class they are currently enrolled in, such as their senior thesis, independent research, or just wanting to learn something new. This also includes any class they might be taking at one of the other 5Cs. For example, a CMC student taking CS 5 at HMC may still come to the QCL for help because they have that CMC privilege.
 
-## Three Parts of the QCL
+What about students from the other colleges? Well, 5C students not from CMC may come to the QCL for help in quantitative courses that are housed at CMC. For example, a Pitzer student may seek mentoring for Math 30 because they are taking Math 30 at CMC. But this same student may not come to the QCL for help for any of the classes they are taking at Pitzer, Pomona, Scripps, or HMC. We try to mitigate these instances by making the rules clear in our appointment system, but students still try to break the rules. However, if a student who is not technically supposed to come for mentoring asks you for help, it is your prerogative on whether you help them or not; we do not want to place the burden of policing students on you.
 
-### Mentoring
+## Three Pillars of the QCL
+The QCL executes its mission statement in three ways
 
-### Workshops
+- **Mentoring:** We offer student mentors to help with courses in Math, CS, Stats, and Physics as well as various programming languages. Seniors can also seek help with their senior thesis from mentors.
 
-### Consultation and Computational Resources
+- **Workshops:** Beginner and intermediate workshops are offered in programming and markdown languages such as Python, R, SQL, MATLAB, LaTeX, and more. These workshops are meant to be hands-on. Workshops are open to all students, faculty, and staff across all 7Cs, but registration is required.
+
+- **Consultation and Computational Resources:** Students and faculty working on independent research can seek consultation services at the QCL for help with quantitative problems and accessing computational resources. These services are provided by the QCL directors and graduate fellows and can range from help running regression on data to parallelizing code for computational physics problems.
+
 
 ## Three clients of the QCL
 
-### Students
+- **Students:**
 
-### Faculty
+- **Faculty:**
 
-### Mentors
+- **Mentors:**
 
 ## Deviate, but Track
 

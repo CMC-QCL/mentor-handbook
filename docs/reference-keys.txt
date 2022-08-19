@@ -10,14 +10,8 @@ qcl-mission-statement
 quantitative-literacy-vs-quantitative-confidence
 qcl-history
 who-is-the-qcl-for
-three-parts-of-the-qcl
-mentoring
-workshops
-consultation-and-computational-resources
+three-pillars-of-the-qcl
 three-clients-of-the-qcl
-students
-faculty
-mentors
 deviate-but-track
 data-driven
 new-mentor-onboarding
@@ -44,6 +38,7 @@ laptops
 printer
 remote-mentoring-resources
 lost-and-found
+the-qcl-website
 one-on-one-appointments
 walk-in-sessions
 mentor-meetings
