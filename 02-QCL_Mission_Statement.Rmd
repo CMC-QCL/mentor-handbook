@@ -1,6 +1,28 @@
 # QCL Mission Statement
 
+## Quantitative Literacy vs Quantitative Confidence
+
 ## QCL History
 
-## Quantitative Literacy
+## Who is the QCL for?
+
+## Three Parts of the QCL
+
+### Mentoring
+
+### Workshops
+
+### Consultation and Computational Resources
+
+## Three clients of the QCL
+
+### Students
+
+### Faculty
+
+### Mentors
+
+## Deviate, but Track
+
+## Data Driven
 

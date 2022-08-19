@@ -1,3 +1,72 @@
 # New Mentor Onboarding
 
-TBA
+Welcome to the QCL! Here's a list of everything you need to do to start mentoring:
+
+## MyWCOnline
+Our one-on-one appointment system is built around the web platform MyWCOnline. Each mentor will show up as a "resource" for students be able to book appointments with.
+
+- [ ]   Go to cmc.mywconline.net
+  - [ ]   If you don't already have an account, please register for a new account using your school email address.
+    - [ ]   Make sure the option "Send me an email when my appointments are made, modified or canceled" is set to yes.
+    - [ ]   Do not enter your phone number (having your phone number included sometimes prevents mentors from receiving email notifications).
+    - [ ]   You will receive a verification email with a link you have to click to activate your account. Please do this right away or else you won't be able to log in.
+
+## Discord
+We use Discord for internal communication at the QCL and it is an important way for the QCL Directors to communicate with mentors. If you're unfamiliar, it's very similar to Slack. If you already have a Discord account, we highly suggest you use your existing account and do not create a new one.
+
+- [ ] Click on the following invite link to access the QCL Discord server: https://discord.gg/Pv8rkcw
+  - [ ] If you do not already have a Discord account, this is where you will be prompted to create one. Otherwise, sign into your existing Discord account.
+- [ ] Once you have access to the server, you will see only a few channels. This is because the Asst. Director needs to grant you Mentor permissions, so please be patient.
+- [ ] In the mean time, go to User Settings (also called Preferences). This can be accessed by clicking on the "gears button" often located on the bottom left of your Discord window.
+  - [ ] Go to the Profiles tab and Server Profiles. Select "The Murty Sunak Quantitative and Computing Lab" from the Choose A Server drop down list.
+    - [ ] Change your "nickname" to the following format: FirstName LastName 'GraduationYear
+    - [ ] Optional: consider changing your avatar to something distinctive
+  - [ ] Go to the Activity Privacy tab (it's far down on the settings list on the left)
+    - [ ] There is a setting that says "Display current activity as status message" which is typically on by default. This means that anybody on Discord, including fellow mentors and QCL directors, will be able to see, under your name, what game you're playing or what you're listening to on Spotify. This is because Discord was built first and foremost as a communication tool for gamers. Anyway, if you don't want us all to see how much Animal Crossing you're playing, then feel free to turn this off.
+- [ ] If you don't already have it, please download, install, and log in to the Discord app on your phone.
+  - [ ] Go to Settings and Notifications
+    - [ ] Turn on push notifications for Discord messages. This might require you to turn on notifications in your phone's system. Note that you will only receive push notifications when people intentionally use @YourName inside the QCL server.
+- [ ] Eventually, the Asst. Director will give you permissions and access to all Mentor related channels, including one with your name on it. They will send you a test message to you in this channel. Please respond to the message to confirm it works.
+- [ ] Once you have access, familiarize yourself with the #resources channel where you can find important links for your easy access.
+
+## Availability Spreadsheet
+The Availability Spreadsheet is a Google Sheet in which you will convey your Walk-in and One-on-one availability to the Asst. Director who will then propagate the information to Head Mentors and MyWCOnline.
+
+- [ ] Click on https://docs.google.com/spreadsheets/d/1aWaWi5MVMusRco8B1rC0xOeh-g2oE9-_sXgGvLGEZqM/edit#gid=0 
+  - [ ] At the bottom, you will find various sheets. Find the one with your name on it. Note: there will always be one sheet with the Asst. Director's name on it for you to view as a test mentor if you need a guide.
+  - [ ] At the top left of your sheet is a schedule of 1-hour time blocks for Sun through Friday. The 9am - 6pm time blocks are strictly for One-on-ones and the 7pm-9pm blocks are strictly for Walk-in blocks.
+    - [ ] For the One-on-one time blocks, click on each for which you are available to see a student for an appointment and change the color of the cell from white to green. See the sheet for the Asst. Director for a guide if you need. Note: some time blocks will be grayed out for the mentor meeting, so you may not select these times for One-on-one availability.
+    - [ ] For the Walk-in time blocks, click on the two-hour session sets of clocks and color them green if you will be available for that evening's Walk-in session on a weekly basis. Please select both hours for the whole two hour session. Though it is possible to work only one of the 2 hours in one evening's session, it can make things more difficult for Head Mentors to manage the session, so we would like to avoid it.
+  - [ ] On the right, you will find a list of all the topics the QCL offers. 
+    - [ ] For the column labeled "One-on-ones," for each subject you are comfortable mentoring a student for a full 1 hour session, put a capital Y in the corresponding cell.
+    - [ ] For the column labeled "Walk-ins," for each subject you are comfortable mentoring a student during an evening Walk-in session, put a capital Y in the corresponding cell.
+- [ ] Once you have finished filling out the availability sheet and you are fairly certain this will be your availability for the whole semester, please notify the Asst. Director in your personal Discord channel (the one named after you) to let them know you finished.
+- [ ] If you ever need to change any information on your sheet after the Asst. Director has propagated it to other systems, please discuss it with the Asst. Director first. Changes can be made, but it needs to be done in a consistent way, so do not just change things without telling anyone.
+ 
+## New Mentor Training
+- [ ] You must attend the New Mentor Training session with the Asst. Director before you can mentor for the QCL. You are likely reading this because you currently are in or already have finished the training. This typically is a 2 hour session. Contact the Asst. Director to schedule a time to complete the training if you missed the session scheduled at the beginning of the semester.
+- [ ] You do get paid for your time in training, so please log that time.
+ 
+## Shadowing
+- [ ] You must also "shadow" an existing mentor before you can mentor the QCL. This can be done during a Walk-in session or a One-on-one session. You only have to do one of the following:
+  - [ ] During a Walk-in session, wait for a mentor to start helping a student. Approach the mentor and ask for both their's and the mentee's permission to observe the teaching session. Observe the entire session or the first 10 minutes of it, which ever comes first. 
+    - [ ] Notify one of the head mentors stationed that evening that you finished your shadowing and that you are now cleared to mentor so they can delegate mentees to you.
+    - [ ] At the next opportunity, send the Asst. Director a message in your private Discord channel that you have completed your shadowing.
+  - [ ] If you choose to shadow during a One-on-one, you will have to find an already-scheduled appointment on MyWCOnline with an existing mentor. You will need to contact the mentor and ask for their permission to attend the appointment to shadow. If they agree, when you attend, you will then need to seek the mentee's permission to shadow. If they agree, you may observe the entire session or simply the first 10 minutes.
+    - [ ] At the next opportunity, send the Asst. Director a message in your private Discord channel that you have completed your shadowing.
+- [ ] When you have completed a shadowing and let the Asst. Director know, they will unhide you from students in MyWCOnline so that they may book appointments with you. You will also be allowed to mentor students during the Walk-in sessions you are scheduled for.
+- [ ] You do get paid for your time shadowing, so please log that time.
+ 
+## Payroll
+- [ ] As long as you filled out the Hiring Form you were linked to when you were first offered the job, the QCL Administrative Assistant has your information and will be working with Payroll to get you into their system and cleared for work. However, until they notify you that you are cleared to work, you may not do any mentoring. This is a strict rule the school has.
+ - [ ] In some cases, such as with international students with no social security number, you may be asked to provide extra documentation. You will be notified if this is the case.
+- [ ] Do not hesitate to contact the QCL Administrative Assistant to inquire about the progress of your on-boarding in Payroll's system.
+
+## Card Swipe Access to the QCL
+- [ ] As long as you filled out the Hiring Form you were linked to when you were first offered the job, the QCL Administrative Assistant has your information and will be working with Story House to give you card access to the QCL.
+ - [ ] In some cases, such as with mentors who are not enrolled at CMC specifically, the process may take longer.
+- [ ] Do not hesitate to contact the QCL Administrative Assistant to inquire about the progress of your on-boarding in Story House's system.
+
+## Mentor Webpage Picture
+- [ ] As a mentor, you will receive an official QCL t-shirt, but you are obligated to have your lovely picture taken with it on in front of the Veteran's Patio fountain. This picture will be used on the QCL website at https://www.cmc.edu/qcl/mentors
+  - [ ] If there are extraneous reasons why it won't be appropriate for your picture to be displayed publicly on the QCL website, please let the Asst. Director know.

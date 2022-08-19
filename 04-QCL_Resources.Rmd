@@ -1,3 +1,37 @@
-# QCL Resources
+# QCL Staff and Resources
 
-TBA
+## QCL Staff
+
+- The QCL Director (Dr. Jeho Park) oversees the entire QCL operation, but their particular focus rests on managing the Workshops, the Data Science Capstone, and computational resources.
+
+- The QCL Assistant Director (Dr. Bhaven Mistry) mostly oversees the Mentoring operation and, thus, you will largely be dealing with them. They are in charge of hiring, training, and managing the mentors as well as conducting the mentor meetings.
+
+- The QCL Administrative Assistant (Janna Shwaiko) manages the QCL physical resources and payroll. If you have a problem with your pay or need more markers, this is who you would speak to.
+
+- The QCL Graduate Fellows are graduate students (typically from CGU) working for the QCL to instruct workshops and help with the QCL's administrative needs. They also provide consulting for research, senior thesis, and computational resources. As a mentor, you will likely not interface with our Grad Fellows very much.
+
+## QCL Space
+
+### Hours and Access
+
+### Lounge
+
+### Classroom
+
+### Conference Room
+
+### Kitchen
+
+### Veteran's Patio
+
+### Overflow Rooms (for Walk-in Sessions)
+
+## White Boards and Walls
+
+## Laptops
+
+## Printer
+
+## Remote Mentoring Resources
+
+## Lost and Found
