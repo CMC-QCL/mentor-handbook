@@ -12,6 +12,14 @@
 - Redirects after Check-in form is submitted
 - Remind the student to do it after the session is done
   - Some students think they need to do it before the session; tell them to wait.
+  
+## Meeting Attendance Form
+
+- Filled out by the mentor when they attend the weekly Mentor Meeting
+
+## Mini Teaching Schedule
+
+- All mentors to are welcome to volunteer their name to do a mini teaching.
 
 ## Self-Evaluation Form
 

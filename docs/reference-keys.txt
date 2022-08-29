@@ -58,6 +58,8 @@ mini-teaching
 forms-and-surveys
 check-in-form
 exit-survey
+meeting-attendance-form
+mini-teaching-schedule
 self-evaluation-form
 end-of-semester-survey
 communication
@@ -75,5 +77,8 @@ disciplinary-protocol
 unexcused-walk-in-attendance
 mentor-no-show-for-one-on-ones
 other-mentor-opportunities
-exiting-the-qcl
+returning-and-graduating-mentors
+returning-veteran-mentors
+taking-a-semester-off
+graduating
 tips-for-mentors

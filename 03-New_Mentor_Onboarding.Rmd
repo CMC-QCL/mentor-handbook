@@ -14,7 +14,7 @@ Our one-on-one appointment system is built around the web platform MyWCOnline. E
 ## Discord
 We use Discord for internal communication at the QCL and it is an important way for the QCL Directors to communicate with mentors. If you're unfamiliar, it's very similar to Slack. If you already have a Discord account, **we highly suggest you use your existing account** instead of creating a new one for the QCL (some of you might be worried we'll all see your screen name is something like PikachuCutie5000, but I'll show you how to hide that).
 
-- [ ] Click on the following invite link to access the QCL Discord server: https://discord.gg/Pv8rkcw
+- [ ] Click on the following QCL Discord Server invite link emailed to you by the QCL Asst. Director.
   - [ ] If you do not already have a Discord account, this is where you will be prompted to create one. Otherwise, sign into your existing Discord account.
 - [ ] Once you have access to the server, you will see only a few channels. This is because the QCL Directors need to grant you Mentor permissions, so please be patient.
 - [ ] In the meantime, go to User Settings (also called Preferences). This can be accessed by clicking on the "gears button" often located on the bottom left of your Discord window.
@@ -31,7 +31,7 @@ We use Discord for internal communication at the QCL and it is an important way 
 ## Availability Spreadsheet
 The Availability Spreadsheet is a Google Sheet in which you will convey your Walk-in and One-on-one availability to the Asst. Director who will then propagate the information to Head Mentors and MyWCOnline.
 
-- [ ] Click on https://docs.google.com/spreadsheets/d/1aWaWi5MVMusRco8B1rC0xOeh-g2oE9-_sXgGvLGEZqM/edit#gid=0 
+- [ ] Click on the Availability Spreadsheet link provided in the #resources channel of the QCL Discord server. 
   - [ ] At the bottom, you will find various sheets. Find the one with your name on it. Note: there will always be one sheet with the Asst. Director's name on it for you to view as a "test sheet" if you need a guide.
   - [ ] At the top left of your sheet is a schedule of 1-hour time blocks for Sun through Friday. The 9am - 6pm time blocks are strictly for One-on-ones and the 7pm-9pm blocks are strictly for Walk-in blocks.
     - [ ] For the One-on-one time blocks, click on each for which you are available to see a student for an appointment and change the color of the cell from white to green. Note: some time blocks will be grayed out for the mentor meeting, so you may not select these times for One-on-one availability.
