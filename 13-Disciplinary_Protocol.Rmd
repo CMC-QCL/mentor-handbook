@@ -1,0 +1,23 @@
+# Disciplinary Protocol
+
+At this time, the QCL has implemented a disciplinary policy for two types of offenses: unexcused Walk-in attendance and Mentor no-shows for a one-on-one.
+
+## Unexcused Walk-in Attendance
+
+This is when a Mentor is scheduled a Walk-in session and fails to let a head mentor know that they will be absent from that session prior to the session. The head mentor will mark that mentor as "Missing" in the attendance sheet for the QCL Directors to review the next day. These absences are very disruptive for the head mentors to delegate mentees to appropriate mentors and minimizes our ability to consistently offer help to students.
+
+1. First offense will result in a message/email from a director asking for an explanation for your absence and failure to notify the head mentors.
+2. Second offense will result in a message/email from a director asking for an explanation for your absence and failure to notify the head mentors.
+3. Third offense will result in a message/email from a director asking for an explanation for your absence and failure to notify the head mentors.
+4. Fourth offense will result in a suspension of being able to continue mentoring in any capacity till you conduct a meeting (either in person or remotely) to discuss the repeated unexcused absences. This is also a chance for you to end your employment in a mutually agree way.
+5. Fifth offense results in termination of your employment at the QCL. This prevents any of the graduation benefits such receiving a QCL stole.
+
+## Mentor No-Show for One-on-ones
+
+A no-show for a mentor during a one-on-one is if a student shows up to the appointment, but the mentor does not, nor do they communicate to either the mentee or the QCL staff about their whereabouts. The typical scenario is a student shows up at the QCL and asks staff where their mentor is, at which point the staff member will ping the mentor on Discord and wait for a response. If there is no response from the mentor for the entire session, this is a no-show. These incidences are extremely damaging to the professionalism and integrity of the QCL.
+
+1. First offense will result in a message/email from a director asking for an explanation for your no-show.
+2. Second offense will result in a message/email from a director asking for an explanation for your no-show.
+3. Third offense will result in a message/email from a director asking for an explanation for your no-show.
+4. Fourth offense will result in a suspension of being able to continue mentoring in any capacity till you conduct a meeting (either in person or remotely) to discuss the repeated no-shows.
+5. Fifth offense results in a ban on mentoring one-on-ones. You will still be allowed to mentor for Walk-in sessions, but you are now not in good standing with the QCL as a Mentor. This prevents any of the graduation benefits such receiving a QCL stole.

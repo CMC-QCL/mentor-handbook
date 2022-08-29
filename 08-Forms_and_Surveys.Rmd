@@ -1,3 +1,25 @@
 # Forms and Surveys
 
-TBA
+## Check-in Form
+
+- Personal QR code
+  - Located on the back of your badge
+- Do it for any session, such as Walk-in or One-on-one
+- SUPER IMPORTANT
+
+## Exit Survey
+
+- Redirects after Check-in form is submitted
+- Remind the student to do it after the session is done
+  - Some students think they need to do it before the session; tell them to wait.
+
+## Self-Evaluation Form
+
+- Done by mentor at the end of the semester.
+  - Required for all mentors, whether you plan to return or not.
+- This data is VERY important to us and helps us fund the QCL.
+
+## End of Semester Survey
+
+- Mentors are not too involved in this, but are free to fill them out.
+- We get low responses, so feel free to market the survey for us.

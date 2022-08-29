@@ -1,6 +1,6 @@
 --- 
 title: "Mentor Handbook"
-author: "This handbook is a quick reference to the most important things you need to know as a QCL Mentor. "
+author: "Bhaven Mistry"
 date: "Last updated `r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -11,6 +11,8 @@ link-citations: yes
 description: "Mentor Handbook for working at the QCL"
 ---
 
+# Welcome QCL Mentor!
 
+This handbook is a quick reference to the most important things you need to know as a QCL Mentor. This document is still a work in progress, but the current content should be helpful. As always, please ask the QCL Directors for any clarifications.
 
 

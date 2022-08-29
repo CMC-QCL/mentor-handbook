@@ -1,3 +1,30 @@
 # Communication
 
-TBA
+The QCL directors try to structure their communication to QCL Mentors and CMC students in a way that is directed and not too obtrusive.
+
+- General announcements: Via Discord with no ping
+- Requires action, but not immediately: Via email
+- Requires immediate action: Via Discord with a ping
+
+The QCL Directors admit they're not the best at following this exactly...
+
+## Discord
+
+This is the primary way we communicate with each, via between QCL staff and mentors, or between mentors themselves.
+
+- #resources is a read-only channel where the QCL Directors post links to important forms and information. This is to make access quick and easy for the mentors.
+- #mentor-chat is for general discussions amongst mentors about mentorng matters as well as important and not-so-important announcements and requests from QCL Directors. This is also where you will let the \@headmentors know when you can't make it to a Walk-in session.
+- #random is for non-mentoring related discussions and announcements, but it has mostly turned into a place for the QCL Directors to post positive feedback we receive from student mentees in their Exit Form responses.
+- #physics-chat is visible only to physics mentors, mostly because many homework solutions are shared here.
+- QCL General Space is a collection of channels that is supposed to be open to all students. This is because there are lofty goals to open the QCL Discord server to all students and not just Mentors. As of now, however, it has not been implemented that way yet. However, the #fun-math-stuff is the most active channel there where we like to post our favorite math/programming memes.
+
+## Email
+
+- The QCL staff will generally reserve email for topics that require action on your part.
+  - Please check your email regularly
+  - Email titles will start with [QCL Mentors] to grab your attention
+
+## Emails to CMC
+
+- The QCL Directors send A LOT of emails to the CMC student body
+  - These email titles will start with [QCL]

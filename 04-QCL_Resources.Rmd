@@ -11,22 +11,78 @@
 - The QCL Graduate Fellows are graduate students (typically from CGU) working for the QCL to instruct workshops and help with the QCL's administrative needs. They also provide consulting for research, senior thesis, and computational resources. As a mentor, you will likely not interface with our Grad Fellows very much.
 
 ## QCL Space
+As a mentor, consider the QCL as your home away from home.
 
 ### Hours and Access
 
+- The QCL front door is unlocked from 8am to 5pm, Mondays through Friday, and, thus, open to anyone to enter.
+- Mentors have 24/7 access by swiping their ID card (once you're through the system).
+- Do not leave the door open; lizards like the air conditioned breeze coming from inside and will enter. They are very hard to remove!
+
 ### Lounge
+
+- Shared space for CMC students to work and get Mentoring
+- Walls can be drawn on
+  - Erase your work when you're done please!
+- Two TVs have Apple Airplay capabilities
 
 ### Classroom
 
+- The glass doors can open all the way.
+- Walls and cupboards can be written on.
+- Cupboards contain laptops, but are locked.
+  - Can ask QCL staff or a head mentor to check a laptop out to you.
+- Sometimes reserverd for QCL Workshops  
+
+
 ### Conference Room
+
+- The walls CANNOT be written on in here.
+- This room can be reserved by any student, faculty, or staff.
+  - Check the schedule next to the door before using it.
+  - Email the QCL Administrative Assistant if you would like to reserve the room
+- You can log into the computer wiht your CMC login info
+  - Owl camera has a 360 degree view
 
 ### Kitchen
 
+- Feel free to use the kitchen
+- Wash your own dishes!
+- Clear out any old food from the fridge you might have left.
+- Draws and cupboards contain utensils, plates, and cups.
+- There are tea bags and sweatener in the cupboard above the sink.
+- Snacks underneath the microwave.
+  - Email the Admin. Assitant if you want different snacks.
+- First aid kit is located in one of the drawers and on top of the fridge.
+
+### Coffee Machine
+
+- You're free to use the very fancy coffee machine.
+- Just make sure to keep clean.
+  - Clear out old grinds in the filter.
+  - Clean off burnt milk from steam wand.
+
 ### Veteran's Patio
 
+- This is a public space, so is not reserved for the QCL.
+- We conduct a lot of mentoring out here, so feel free to spread out and use it.
+- However, parts of the space can be reserved by Story House.
+  - Check the tables for "Reserved" signs. If there isn't one, you can assume it's fine to use.
+- During the Walk-in sessions, we have the space reserved for us.
+
 ### Overflow Rooms (for Walk-in Sessions)
+- Some combination of LC 61, LC 62, and LC 63 can be reserved by the QCL during the Walk-in sessions as "over flow rooms."
+  - Good for when the weather isn't fun outside.
+  - Physics mentoring tends to centralize in one of these rooms.
+  - The exact rooms tend to change each semester. The QCL Directors will let you know which ones we can use.
 
 ## White Boards and Walls
+
+- Small white boards can be moved outside to utilize the patio area.
+  - Make sure you bring it back in after you're done.
+  - Each whiteboard should have a light on top so you can mentor in the dark.
+- Clean white boards of all your work when you're finished with them.
+  - Just use the provided erasers. DO NOT use any cleaning products on the white boards.
 
 ## Laptops
 
@@ -34,6 +90,15 @@
 
 ## Remote Mentoring Resources
 
+- Small white boards
+- Wacom One Tablets
+
 ## Lost and Found
 
+- Cupboard underneath the QCL Lounge TV
+- If we find something, we'll just automatically put it in there
+
 ## The QCL Website
+
+- If anyone wants info about the QCL, just send them to our website.
+  - www.cmc.edu/qcl

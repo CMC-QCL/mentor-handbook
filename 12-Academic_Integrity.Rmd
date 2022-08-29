@@ -1,0 +1,24 @@
+# Academic Integrity
+
+As a mentor, you do not GIVE answers to students. You, instead, help them come to the answers themselves. This is relatively straight forward, but there are some gray areas, so let us explore the three general reasons mentees come to the QCL seeking your help in the official capacity as a mentor and we will explore each one separately.
+
+
+## Situation 1: The student wants the answer to a specific problem
+
+This is an automatic no. If this problem is coming from a homework assignment, practice exam, or even some random question they found on the internet, if you know how to solve it, then you should help them find a way to solve it themselves. It's the only way they will develop quantitative knowledge and skills.
+
+## Situation 2: The student wants help arriving at the answer to a specific problem
+
+This may seem okay, but in some situations it is not. You should ask the student "where is this problem coming from?"
+
+- If the student says it came from a homework or practice exam, you can help them.
+  - If it is the case that the professor of this student explicitly bars the student from seeking help at the QCL on these problems, it is the responsibility of the student to not ask you for help, and, thus, you are protected. This is because they would have answered a academic integrity pledge in the Check-in form you had them fill out before helping them.
+- If the student says it came from a take-home exam, you cannot help them.
+
+## Situation 3: The student wants information on a general quantitative subject with no specific problem in mind
+
+This seems the most innocuous situation, but there could still be some academic integrity at stake. This is because this student might be in the middle of a take-home exam. Exams, even take-home ones, are, by default, closed everything (notes, books, internet, and QCL). Thus, this student should not be seeking help in that generalize topic. For example, a Calc 2 student has a take-home exam and goes to the QCL with a general question about infinite series, with no specific problem in mind. Technically, this it not okay. Only if the professor gave explicit permission to their students that they are allowed to go to the QCL, may the student get help.
+
+## We Got Your Back
+
+As a QCL mentor, it is not your official obligation to be the academic integrity police. You may or may not report incidences of academic dishonesty, but that is as a responsible student of the Claremont Colleges. However, students may game the system and you may find yourself participating in academic dishonesty without your knowledge. This is why you need to take the bare minimum steps of having each mentee fill out the Check-in form (and thus, the pledge for academic integrity) and ask them where specific problems came from. As long as you do these, the QCL will defend your integrity to any allegations of wrong doing.

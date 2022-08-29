@@ -1,3 +1,48 @@
 # One on One Appointments
 
-TBA
+## General procedure
+
+- Student checks schedule and filters mentors for their subject
+  - They find your availability, click on a time block and make an appointment
+    - Will put their professor's name and description of what they need help with
+    - Will also have to pledge to make sure they don't book you within 24 hours of the appointment and that they're eligible to receive mentoring (CMC student or non-CMC taking a CMC course)
+- You will get an email notification about the appointment.
+  - You can go into MyWCOnline and click on the appointment block to see more info
+    - You can click on the student's name to find their contact info and school.
+- Email the student to tell them how you're going to meet them.
+  - If physical meeting, feel free to use the QCL.
+  - If an online-only meeting, send them a Zoom link (or preferred alternative).
+  - If the student booked within 24 hours of the appointment, you have the right to cancel the meeting, but still email the student letting them know.
+- Meet the student at the designated place at the the beginning of the meeting.
+  - Be punctual!
+    - QCL staff will message you on Discord if you forget and the students asks us where you are.
+  - If the student is late, wait 20 minutes before considering it a "no-show."
+    - You can mark the student a no-show for that appointment in MyWCOnline.
+      - There are strict consequences!
+      
+## During the One-on-one
+
+- Spend the first few minutes outlining how you plan to conduct the entire session
+  - Doesn't need to be detailed; just enough for the to see you have a plan.
+- Give a lot of prompt encouragement and positive reinforcement.
+- For the last 5 minutes, ask the mentee to summarize what you covered back to you.
+
+## Blacking out times
+
+- Cancelling appointments on students for non-legitimate reasons is no good!
+- Proactively block out times if you even feel like you won't be available certain dates.
+  - No need to ask for permission from QCL staff; just go ahead and block it out
+- In MyWCOnline, in the upper left, underneath your name, you will find a button that looks like a box with an X on it.
+  - This turns on "black out mode" and will let you click on time blocks to make unavailable to students.
+  - DO NOT make an appointment with yourself to black out times; it messes with our data.
+  
+## Your schedule
+
+- There can be limits to how many appointments you can receive.
+ - 3 appointments max per day set as default.
+ - No limit on appointments per week set by default.
+ - You can ask the QCL Directors to change these limits if you like.
+- If you want to change your availability, discuss with a QCL Director
+  - It can be a little bit of a pain to do, so be patient.
+  - If you change your schedule on the Availability Spreadsheet, LET THE ASST. DIRECTOR KNOW.
+  
