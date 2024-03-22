@@ -1,0 +1,63 @@
+# Interviewing Procedure
+
+## What makes a good Mentor?
+- Qualities
+- Experiences
+- Disposition
+- Others
+
+## Interview Timeline
+### Before the Interview
+- Put your name down to all interviews you'd like to attend
+  - Link to the Interview Schedule is located in #resources channel of Discord
+  - No more than 5 Mentors per interview
+  - You decide if it's appropriate to be at the interview
+    - We trust you to not implement personal bias
+- Block out all times in WCOnline for which you will be attending interviews
+- Show up 5 minutes earlier than the interview time
+- Only Mentors should be interviewing; do not let other random students attend
+
+
+### Meet and greet
+- Try to lower their anxiety
+- Introduce yourselves first
+  - Talk about your majors, how long you've at the QCL, what you like about working here, etc.
+    - 
+
+### Mini Teaching
+- 10-12 minutes
+- One Mentor must decide to "conduct" the Mini-Teaching
+  - Introduce the interviewer
+  - Explain to them that you will signal "2 minutes left" at the 10 minute mark
+  - Start a timer and let them know when to start
+  - Signal them at the 10 minute mark
+  - Manage the Q/A
+- Follow-up questions for 8 minutes
+  - Ask questions a student might ask
+  - Feel free to give a helping hand if they're stumped
+
+### Interview questions
+- General interview questions for the next 8 minutes
+  - What is your relationship with quantitative topics (Mathematics, Computer Science, Economics, Physics, etc.)?
+  - What are kind of quantitative skills are you still trying to learn? 
+  - What do you think the role the QCL is to the CMC and 5C community?
+  - What role has the QCL played in your own development?
+  - What do you think you can contribute to the QCL role?
+  - Do you have experience tutoring or mentoring?
+  - Do you have a tutoring philosophy?
+  - Do you have any questions for us?
+- We must avoid questions that imply bias towards or against the candidate's race, color, religion, sex (including gender identity, sexual orientation, & pregnancy), age, national origin, citizenship status, or disability.
+  - It can be done by accident. Here are examples:
+    - Candidate: “I volunteered with my church group to tutor children in math in Connecticut.”
+    
+      Mentor: “Oh that’s interesting, I’m from Connecticut too! What church do you go to?”
+    - Candidate: “As a mixed person, I’ve struggled to find my place…”
+    
+      Mentor: “I struggle with that too sometimes. What are your identities, and where do you find campus support?”
+
+- Thank the candidate and let them know the Directors will be in contact with them
+
+### Fill out the Interview Form
+- Linked in the #resources channel of Discord
+- DO NOT fill out this form while the candidate is present!
+- After the candidate has left, discuss with the other Mentors present and fill out the form
