@@ -83,10 +83,11 @@ taking-a-semester-off
 graduating
 tips-for-mentors
 interviewing-procedure
-what-makes-a-good-mentor
+main-goal-of-the-mentor-led-interview
 interview-timeline
 before-the-interview
 meet-and-greet
 mini-teaching-1
-interview-questions
-fill-out-the-interview-form
+follow-up-questions-on-the-mini-teaching
+end-of-interview
+fill-out-the-interview-feedback-form

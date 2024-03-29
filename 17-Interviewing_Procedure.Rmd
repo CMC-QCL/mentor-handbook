@@ -1,63 +1,67 @@
 # Interviewing Procedure
 
-## What makes a good Mentor?
-- Qualities
-- Experiences
-- Disposition
-- Others
+## Main Goal of the Mentor-led Interview
+- Assess the candidate's skill at communicating the quantitative topic they chose during their Mini Teaching clearly and pedagogically.
+- Assess the candidate's understanding of the quantitative topic they chose for their Mini Teaching using follow-up questions a student might ask.
+- Answer any questions the candidate has about the position from a Mentor's point of view.
 
 ## Interview Timeline
 ### Before the Interview
-- Put your name down to all interviews you'd like to attend
-  - Link to the Interview Schedule is located in #resources channel of Discord
-  - No more than 5 Mentors per interview
-  - You decide if it's appropriate to be at the interview
-    - We trust you to not implement personal bias
-- Block out all times in WCOnline for which you will be attending interviews
-- Show up 5 minutes earlier than the interview time
-- Only Mentors should be interviewing; do not let other random students attend
+- Put your name down on the interview schedule.
+  - A link to the Interview Schedule is located in the #resources channel of Discord.
+  - No more than 3 Mentors per interview. Ideally 2 and then one alternate.
+  - You decide if it is appropriate for you to be at the interview.
+    - We trust you to not implement personal bias.
+- Block out all times in WCOnline for which you will be attending interviews.
+  - You do get paid for the hour you dedicated for this interview.
+- Show up 5 minutes earlier than the interview time.
+- Only Mentors should be interviewing; do not let other random students attend.
 
 
-### Meet and greet
-- Try to lower their anxiety
-- Introduce yourselves first
-  - Talk about your majors, how long you've at the QCL, what you like about working here, etc.
-    - 
+### Meet and Greet
+- Greet the candidate when they arrive. They might not know where the QCL Classroom is.
+- Introduce yourselves first and tell them about your experiences as a Mentor and how long you've worked at the QCL.
+  - The point of this time is to create a friendly, low anxiety environment for the candidate. 
+- Ask them if they have any questions for you about the position or the QCL.
+  - Give your perspective as a Mentor.
+  - This is really their chance to interview us.
+- Don't spend more than 10 minutes chatting like this. You can cut it as short as you want.
+
+  
+
 
 ### Mini Teaching
-- 10-12 minutes
-- One Mentor must decide to "conduct" the Mini-Teaching
-  - Introduce the interviewer
+- 10-12 minutes.
+- One Mentor must decide to "conduct" the Mini-Teaching.
   - Explain to them that you will signal "2 minutes left" at the 10 minute mark
   - Start a timer and let them know when to start
   - Signal them at the 10 minute mark
-  - Manage the Q/A
-- Follow-up questions for 8 minutes
-  - Ask questions a student might ask
-  - Feel free to give a helping hand if they're stumped
+  - Feel free to cut them off at 12 minutes, but you can decide if you want to let them go a little longer to finish up.
+- Things to look out for:
+  - Do they state the objective of the problem clearly at the beginning?
+  - Do they define all terms, variables, and symbols they introduce?
+  - Are they keeping the technical details and jargon at a level a student will understand?
+  - Do they break the problem up in clear steps?
+  - Do they clearly state or summarize the solution of the problem when they're done?
+  - Is their white board management clean and organized?
+  - Do they engage the student with occasional questions?
+  - Do they have to backtrack to fix any mistakes?
+  - Do they say anything mathematically or technically inaccurate?
+  
+  
+### Follow-up Questions on the Mini Teaching
+- 8 minutes maximum.
+- Ask questions a student might ask or legitimate questions you might have.
+- Keep the focus of the questions on the Mini Teaching they just did and not about their background.
+- Feel free to give a helping hand if they're stumped.
+- You may give helpful suggestions and constructive criticism of the Mini Teaching, but be nice about it!
 
-### Interview questions
-- General interview questions for the next 8 minutes
-  - What is your relationship with quantitative topics (Mathematics, Computer Science, Economics, Physics, etc.)?
-  - What are kind of quantitative skills are you still trying to learn? 
-  - What do you think the role the QCL is to the CMC and 5C community?
-  - What role has the QCL played in your own development?
-  - What do you think you can contribute to the QCL role?
-  - Do you have experience tutoring or mentoring?
-  - Do you have a tutoring philosophy?
-  - Do you have any questions for us?
-- We must avoid questions that imply bias towards or against the candidate's race, color, religion, sex (including gender identity, sexual orientation, & pregnancy), age, national origin, citizenship status, or disability.
-  - It can be done by accident. Here are examples:
-    - Candidate: “I volunteered with my church group to tutor children in math in Connecticut.”
-    
-      Mentor: “Oh that’s interesting, I’m from Connecticut too! What church do you go to?”
-    - Candidate: “As a mixed person, I’ve struggled to find my place…”
-    
-      Mentor: “I struggle with that too sometimes. What are your identities, and where do you find campus support?”
+### End of Interview
+- Thank them for coming and tell them they'll hear back from the QCL Directors after all interviews are done.
 
-- Thank the candidate and let them know the Directors will be in contact with them
 
-### Fill out the Interview Form
+### Fill out the Interview Feedback Form
 - Linked in the #resources channel of Discord
 - DO NOT fill out this form while the candidate is present!
-- After the candidate has left, discuss with the other Mentors present and fill out the form
+- After the candidate has left, discuss with the other Mentors present and fill out the form.
+  - It's not very long and you can provide as much commentary as you feel necessary.
