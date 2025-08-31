@@ -9,7 +9,7 @@ However, what is also important is what we all "quantitative confidence," the QC
 ## QCL History
 The Murty Sunak Quantitative and Computing Lab was created by Dr. Jeho Park in 2018 as replacement to the existing Mathematical Sciences' tutoring operation. One of the hallmarks of the CMC Mathematical Sciences department is it's devotion to giving faculty agency in their teaching style, and this philosophy trickles down to how we train our mentors. Furthermore, the QCL is part of a triumverate of "student success" institutions which include the Center for Writing and Public Discourse (CWPD) and the Dean of Students (DoS) office, from which we modeled much of our structure. 
 
-Since its inception, the QCL has grown and included Computer Science and Statistics courses from the Economics, Psychology, and Biology departments, along with logic from the Philosophy department. More recently, we have subsumed the Keck Science Physics tutoring operation. However, as we grow and are presented possible new courses to mentor for, we take care to only consider those that have a strong quantitative component with minimal redundancy with other, existing tutoring operations.
+Since its inception, the QCL has grown and included Computer Science and Statistics courses from the Economics, Psychology, and Biology departments, along with logic from the Philosophy department. More recently, we have started support of the Kravis Integrated Science Department core courses. However, as we grow and are presented possible new courses to mentor for, we take care to only consider those that have a strong quantitative component with minimal redundancy with other, existing tutoring operations.
 
 ## Who is the QCL for?
 The QCL is first and foremost a CMC organization, so CMC students can come to seek help in anything quantitative. This includes reasons that are not associated with any class they are currently enrolled in, such as their senior thesis, independent research, or just wanting to learn something new. This also includes any class they might be taking at one of the other 5Cs. For example, a CMC student taking CS 5 at HMC may still come to the QCL for help because they have that CMC privilege.
@@ -28,13 +28,14 @@ The QCL executes its mission statement in three ways
 
 ## Three clients of the QCL
 
-- **Students:**
+- **Students:** They come to gain quantitative literacy and quantitative confidence.
 
-- **Faculty:**
+- **Faculty:** They need support for their courses.
 
-- **Mentors:**
+- **Mentors:** They come to gain responsible leadership and pedagogical skills.
 
 ## Deviate, but Track
+We want you to be able to explore different teaching styles. However, this can come into conflict with professors who want their content to be taught in a very strict way. So we ask that if you do deviate from the professor's curriculum, always bring it back to it by the end of the Mentoring session.
 
 ## Data Driven
-
+We collect a lot of data in a very thoughtful and intentional way. Part of your job description is to help us with this data collection. 

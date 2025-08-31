@@ -12,10 +12,7 @@
 - Redirects after Check-in form is submitted
 - Remind the student to do it after the session is done
   - Some students think they need to do it before the session; tell them to wait.
-  
-## Meeting Attendance Form
 
-- Filled out by the mentor when they attend the weekly Mentor Meeting
 
 ## Mini Teaching Schedule
 
@@ -23,9 +20,14 @@
 
 ## Self-Evaluation Form
 
-- Done by mentor at the end of the semester.
+- Done by each Mentor at the end of the semester.
   - Required for all mentors, whether you plan to return or not.
 - This data is VERY important to us and helps us fund the QCL.
+
+## Student Body Evaluation
+
+- Done by Mentors near the end of the semester.
+- Gives us your perspective on how students are doing with their academics and their work/life balance.
 
 ## End of Semester Survey
 

@@ -53,14 +53,13 @@ during-the-session
 head-mentors-are-in-charge
 too-many-students
 mentor-meetings
-mandatory
 mini-teaching
 forms-and-surveys
 check-in-form
 exit-survey
-meeting-attendance-form
 mini-teaching-schedule
 self-evaluation-form
+student-body-evaluation
 end-of-semester-survey
 communication
 discord-1

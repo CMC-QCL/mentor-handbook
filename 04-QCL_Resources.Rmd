@@ -4,18 +4,18 @@
 
 - The QCL Director (Dr. Jeho Park) oversees the entire QCL operation, but their particular focus rests on managing the Workshops, the Data Science Capstone, and computational resources.
 
-- The QCL Assistant Director (Dr. Bhaven Mistry) mostly oversees the Mentoring operation and, thus, you will largely be dealing with them. They are in charge of hiring, training, and managing the mentors as well as conducting the mentor meetings.
+- The QCL Associate Director (Dr. Bhaven Mistry) mostly oversees the Mentoring operation and, thus, you will largely be dealing with them. They are in charge of hiring, training, and managing the mentors as well as conducting the mentor meetings.
 
-- The QCL Administrative Assistant (Janna Shwaiko) manages the QCL physical resources and payroll. If you have a problem with your pay or need more markers, this is who you would speak to.
+- The QCL Program Coordinator (Dr. Vanessa Casillas) manages the QCL physical resources and payroll. If you have a problem with your pay or need more markers, this is who you would speak to.
 
-- The QCL Graduate Fellows are graduate students (typically from CGU) working for the QCL to instruct workshops and help with the QCL's administrative needs. They also provide consulting for research, senior thesis, and computational resources. As a mentor, you will likely not interface with our Grad Fellows very much.
+- The QCL Graduate Fellows are graduate students (typically from CGU) working for the QCL to instruct workshops and help with the QCL's administrative needs. They also provide consulting for research, senior thesis, and computational resources. As a Mentor, you will likely not interact with our Grad Fellows very much.
 
 ## QCL Space
 As a mentor, consider the QCL as your home away from home.
 
 ### Hours and Access
 
-- The QCL front door is unlocked from 8am to 5pm, Mondays through Friday, and, thus, open to anyone to enter.
+- The QCL front door is unlocked from 9am to 5pm, Mondays through Friday, and, thus, open to anyone to enter.
 - Mentors have 24/7 access by swiping their ID card (once you're through the system).
 - Do not leave the door open; lizards like the air conditioned breeze coming from inside and will enter. They are very hard to remove!
 
@@ -24,35 +24,36 @@ As a mentor, consider the QCL as your home away from home.
 - Shared space for CMC students to work and get Mentoring
 - Walls can be drawn on
   - Erase your work when you're done please!
-- Two TVs have Apple Airplay capabilities
+- Two TVs have Apple Airplay capabilities (Lounge TV and Office TV)
 
 ### Classroom
 
 - The glass doors can open all the way.
 - Walls and cupboards can be written on.
 - Cupboards contain laptops, but are locked.
-  - Can ask QCL staff or a head mentor to check a laptop out to you.
-- Sometimes reserverd for QCL Workshops  
+  - Can ask QCL staff or a Head Mentor to check a laptop out to you.
+- Sometimes reserved for QCL Workshops or Data Science Capstone meetings.
 
 
 ### Conference Room
 
 - The walls CANNOT be written on in here.
-- This room can be reserved by any student, faculty, or staff.
+- This room can be reserved by any Mentor, faculty, or staff.
   - Check the schedule next to the door before using it.
-  - Email the QCL Administrative Assistant if you would like to reserve the room
-- You can log into the computer wiht your CMC login info
+  - Email the QCL Program Coordinator if you would like to reserve the room
+- You can log into the computer with your CMC login info
   - Owl camera has a 360 degree view
+- Priority is given to QCL Staff and the Data Science Capstone, so your reservation can get bumped.
 
 ### Kitchen
 
 - Feel free to use the kitchen
 - Wash your own dishes!
 - Clear out any old food from the fridge you might have left.
-- Draws and cupboards contain utensils, plates, and cups.
-- There are tea bags and sweatener in the cupboard above the sink.
+- Drawers and cupboards contain utensils, plates, and cups.
+- There are tea bags and sweetener in the cupboard above the sink.
 - Snacks underneath the microwave.
-  - Email the Admin. Assitant if you want different snacks.
+  - Email the QCL Program Coordinator if you want different snacks.
 - First aid kit is located in one of the drawers and on top of the fridge.
 
 ### Coffee Machine
